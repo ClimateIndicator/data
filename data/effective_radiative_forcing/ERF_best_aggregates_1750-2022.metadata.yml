@@ -1,0 +1,31 @@
+# Metadata for a data-containing file
+
+# General information
+file_name: ERF_best_aggregates_1750-2022.csv  # file1.csv
+file_type: csv  # csv, xls
+file_size: 62534  # in bytes
+
+# An absolute or a relative path? Which makes more sense?
+file_path: ERF_best_aggregates_1750-2022.csv    # Relative to the domain root /folder/file.csv
+
+created_date: 2023-04-20 # in ISO format (yyyy-mm-dd)
+last_modified_date: 2023-04-20 # in ISO format (yyyy-mm-dd)
+
+# Expires,
+# the date when data in this file becomes outdates and a newer file should be provided
+expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
+
+# File hash, one required
+hash_md5_value: 02f803991d934bd047f50ae863cccf07
+
+# Generating code URL
+code_repository_url: https://github.com/ClimateIndicator/forcing-timeseries # f.e. https://github.io/example-repo
+
+# Authors responsible for the file, use for notifications
+authors:
+  - author_name: Chris Smith
+    author_email: c.j.smith1@leeds.ac.uk
+
+# Description and more...
+data_description: Effective radiative forcing for aggregated categories of anthropogenic and natural components contributing to contemporary climate change. Data are annual mean best estimate values reported in W m-2.
+data_license: CC-BY-4.0

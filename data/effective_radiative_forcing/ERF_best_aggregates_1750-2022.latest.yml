@@ -1,0 +1,8 @@
+# A pointer to the latest data file
+
+# An absolute or a relative path? Which makes more sense?
+latest_file_path: ERF_best_aggregates_1750-2022.csv # Relative to the domain root /folder/file.csv
+latest_metadata_path: ERF_best_aggregates_1750-2022.metadata.yml # Relative to the domain root url /folder/file.metadata.csv
+
+# Expires, when to read this latest.yml next time
+expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
