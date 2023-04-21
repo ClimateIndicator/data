@@ -27,5 +27,5 @@ authors:
     author_email: c.j.smith1@leeds.ac.uk
 
 # Description and more...
-data_description: Effective radiative forcing for aggregated categories of anthropogenic and natural components contributing to contemporary climate change. Data are annual mean best estimate values reported in W m-2.
+data_description: Effective radiative forcing for 95th percentile (across 100000 ensemble members) of aggregated categories of anthropogenic and natural components contributing to contemporary climate change. Data are annual mean values reported in W m-2.
 data_license: CC-BY-4.0
