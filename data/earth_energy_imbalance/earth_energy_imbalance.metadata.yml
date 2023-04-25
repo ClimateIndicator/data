@@ -29,5 +29,5 @@ authors:
     author_email: kvonschuckmann@mercator-ocean.fr
 
 # Description and more...
-data_description: Components of the Earth's energy imbalance 1971 to present. All values are in ZJ. Uncertainties (columns headed *_error) are 90% ranges.
+data_description: Components of the Earth's energy imbalance 1971 to present. All values are in ZJ. Uncertainties (columns headed *_error) are one standard deviation ranges.
 data_license: CC-BY-4.0
