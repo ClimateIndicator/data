@@ -1,0 +1,32 @@
+# Metadata for a data-containing file
+
+# General information
+file_name: Ribes_GMST_headlines.csv  # file1.csv
+file_type: csv  # csv, xls
+file_size: 1459  # in bytes
+
+# An absolute or a relative path? Which makes more sense?
+file_path: Ribes_GMST_headlines.csv    # Relative to the domain root /folder/file.csv
+
+created_date: 2023-05-01 # in ISO format (yyyy-mm-dd)
+last_modified_date: 2023-05-01 # in ISO format (yyyy-mm-dd)
+
+# Expires,
+# the date when data in this file becomes outdates and a newer file should be provided
+expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
+# note this is just the AR6 and SR15 numbers so does not expire.
+
+# File hash, one required
+hash_md5_value: cd450c7631924a9afcbd9ac64e369b47
+
+# Generating code URL
+code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment # f.e. https://github.io/example-repo
+
+# Authors responsible for the file, use for notifications
+authors:
+  - author_name: Aurélien Ribes
+    author_email: aurelien.ribes@meteo.fr
+
+# Description and more...
+data_description: Attribution of historical warming by component. Suffix _p05, _p17, _p50, _p83, _p95 represents 5th, 17th, 50th, 83rd and 95th percentiles of the uncertainty distribution.
+data_license: CC-BY-4.0
