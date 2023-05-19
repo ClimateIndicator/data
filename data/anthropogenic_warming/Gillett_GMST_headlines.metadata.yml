@@ -20,7 +20,9 @@ expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
 hash_md5_value: 6653a68051d177550a3aa04e12d1d919
 
 # Generating code URL
-code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment # f.e. https://github.io/example-repo
+code_repository_url:
+  - https://github.com/ClimateIndicator/anthropogenic-warming-assessment # f.e. https://github.io/example-repo
+  - https://github.com/ESMValGroup/ESMValTool/tree/forster23
 
 # Authors responsible for the file, use for notifications
 authors:
