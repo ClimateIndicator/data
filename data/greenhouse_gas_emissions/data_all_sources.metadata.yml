@@ -1,12 +1,12 @@
 # Metadata for a data-containing file
 
 # General information
-file_name: greenhouse_gas_emissions_1750-2021.csv  # file1.csv
+file_name: data_all_sources.csv  # file1.csv
 file_type: csv  # csv, xls
-file_size: 12775  # in bytes
+file_size: 127469  # in bytes
 
 # An absolute or a relative path? Which makes more sense?
-file_path: greenhouse_gas_emissions_1750-2021.csv    # Relative to the domain root /folder/file.csv
+file_path: data_all_sources.csv    # Relative to the domain root /folder/file.csv
 
 created_date: 2023-05-22 # in ISO format (yyyy-mm-dd)
 last_modified_date: 2023-05-22 # in ISO format (yyyy-mm-dd)
@@ -16,7 +16,7 @@ last_modified_date: 2023-05-22 # in ISO format (yyyy-mm-dd)
 expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
 
 # File hash, one required
-hash_md5_value: 26dfc8f019ca7ae1ce1161e3e2cf2356
+hash_md5_value: b2ec769ebd7d76afe0ffc99b2c98aa4a
 
 # Generating code URL
 code_repository_url: https://github.com/ClimateIndicator/GHG-Emissions-Assessment # f.e. https://github.io/example-repo
@@ -27,5 +27,5 @@ authors:
     author_email: lamb@mcc-berlin.net
 
 # Description and more...
-data_description: Greenhouse gas emissions with CO2 in GtCO2/yr, CH4 as MtCH4/yr and N2O as MtN2O/yr. F-gases are expressed as GWP100 (AR6).
+data_description: All sources of emissions data used in the consolidated emissions files.
 data_license: CC-BY-4.0
