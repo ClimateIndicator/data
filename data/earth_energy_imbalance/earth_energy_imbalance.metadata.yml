@@ -1,33 +1,16 @@
-# Metadata for a data-containing file
-
-# General information
-file_name: earth_energy_imbalance.csv  # file1.csv
-file_type: csv  # csv, xls
-file_size: 7050  # in bytes
-
-# An absolute or a relative path? Which makes more sense?
-file_path: earth_energy_imbalance.csv    # Relative to the domain root /folder/file.csv
-
-created_date: 2023-04-17 # in ISO format (yyyy-mm-dd)
-last_modified_date: 2023-04-17 # in ISO format (yyyy-mm-dd)
-
-# Expires,
-# the date when data in this file becomes outdates and a newer file should be provided
-expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
-
-# File hash, one required
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: earth_energy_imbalance.csv
+file_type: csv
+file_size: 7050
+created_date: 2023-04-17
+last_modified_date: 2023-04-17
+expires_date: 2024-03-31
 hash_md5_value: dd7008012dc5e7870bcfe9b9addeafda
-
-# Generating code URL
-code_repository_url: https://github.com/ClimateIndicator/ocean-heat-content # f.e. https://github.io/example-repo
-
-# Authors responsible for the file, use for notifications
+code_repository_url: https://github.com/ClimateIndicator/ocean-heat-content
 authors:
   - author_name: Matt Palmer
     author_email: m.d.palmer@bristol.ac.uk
   - author_name: Karina von Schuckmann
     author_email: kvonschuckmann@mercator-ocean.fr
-
-# Description and more...
 data_description: Components of the Earth's energy imbalance 1971 to present. All values are in ZJ. Uncertainties (columns headed *_error) are one standard deviation ranges.
 data_license: CC-BY-4.0
