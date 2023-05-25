@@ -1,27 +1,12 @@
-# Metadata for a data-containing file
-
-# General information
-file_name: txx_timeseries.csv  # file1.csv
-file_type: csv  # csv, xls
-file_size: 2448  # in bytes
-
-# An absolute or a relative path? Which makes more sense?
-file_path: txx_timeseries.csv    # Relative to the domain root /folder/file.csv
-
-created_date: 2023-04-20 # in ISO format (yyyy-mm-dd)
-last_modified_date: 2023-04-20 # in ISO format (yyyy-mm-dd)
-
-# Expires,
-# the date when data in this file becomes outdates and a newer file should be provided
-expires_date: 2024-03-31 # in ISO format (yyyy-mm-dd)
-
-# File hash, one required
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: txx_timeseries.csv
+file_type: csv
+file_size: 2448
+created_date: 2023-04-20
+last_modified_date: 2023-04-20
+expires_date: 2024-03-31
 hash_md5_value: 4c7f8c5573159d656fd8f1281cde254a
-
-# Generating code URL
-code_repository_url: https://github.com/ClimateIndicator/cip_extremes # f.e. https://github.io/example-repo
-
-# Authors responsible for the file, use for notifications
+code_repository_url: https://github.com/ClimateIndicator/cip_extremes
 authors:
   - author_name: Mathias Hauser
     author_email: mathias.hauser@env.ethz.ch
@@ -29,8 +14,6 @@ authors:
     author_email: dominik.schumacher@env.ethz.ch
   - author_name: Sonia Seneviratne
     author_email: sonia.seneviratne@ethz.ch
-
-# Description and more...
 data_description:
   - units: K
   - anomalies with respect to 1961-1990
