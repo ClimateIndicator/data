@@ -1,12 +1,12 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
-file_name: Walsh_GMST_headlines_6048000.csv
+file_name: Walsh_GMST_rates.csv
 file_type: csv
-file_size: 2779
+file_size: 42003
 created_date: 2023-05-01
 last_modified_date: 2023-05-01
 expires_date: 2024-03-31
 # note this is just the AR6 and SR15 numbers so does not expire.
-hash_md5_value: 852beb5b84fadd4116931cb7f6b83938
+hash_md5_value: c72bf0a4a1ff4eca6170dbaaf06ab13a
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh

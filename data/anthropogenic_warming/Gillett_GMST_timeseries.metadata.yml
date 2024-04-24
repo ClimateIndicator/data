@@ -1,12 +1,12 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: Gillett_GMST_timeseries.csv
 file_type: csv
-file_size: 46366
+file_size: 54609
 created_date: 2023-05-01
-last_modified_date: 2023-05-25
-expires_date: 2024-03-31
+last_modified_date: 2024-04-24
+expires_date: 2025-03-31
 # note this is just the AR6 and SR15 numbers so does not expire.
-hash_md5_value: 9265e59329411d76c932aa4d4c198e14
+hash_md5_value: 9b66b2b3f17ae94250c0f691b47e4760
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Nathan Gillett
