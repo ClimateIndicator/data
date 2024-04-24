@@ -1,12 +1,12 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
-file_name: assessment_update_2022_GMST_headlines.csv
+file_name: assessment_update_2023_GMST_headlines.csv
 file_type: csv
-file_size: 687
-created_date: 2023-05-01
-last_modified_date: 2023-06-02
-expires_date: 2024-03-31
+file_size: 688
+created_date: 2024-04-24
+last_modified_date: 2024-04-24
+expires_date: 2025-03-31
 # note this is just the AR6 and SR15 numbers so does not expire.
-hash_md5_value: 0b3b074366b4501fca6f6f140eb8ee88
+hash_md5_value: 2e565ebdbb68f670d9b9b52806f77090
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh
