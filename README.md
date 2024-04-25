@@ -16,8 +16,7 @@ The below table details the author(s) of each dataset contained within the repos
 | Global temperature extreme anomalies 1950-2023 | [Mathias Hauser](https://iac.ethz.ch/people-iac/person-detail.html?persid=146568),<br> [Dominik Schumacher](https://usys.ethz.ch/en/people/profile.MTcwNDMx.TGlzdC82MzcsMzIwMTk3MjIy.html),<br> [Sonia Seneviratne](https://iac.ethz.ch/people-iac/person-detail.NTQ3Nzg=.TGlzdC82MzcsLTE5NDE2NTk2NTg=.html) | https://github.com/ClimateIndicator/cip_extremes |
 | Greenhouse gas concentrations 1750-2023 | [Chris Smith](https://environment.leeds.ac.uk/see/staff/1542/dr-chris-smith),<br> [Xin Lan](https://gml.noaa.gov/staff/Xin.Lan/),<br> [Bradley Hall](https://gml.noaa.gov/staff/Bradley.Hall/),<br> [Jens Muhle](https://jmuhle.scrippsprofiles.ucsd.edu/),<br> [Paul Krummel](https://people.csiro.au/k/p/paul-krummel) | https://github.com/ClimateIndicator/forcing-timeseries |
 | Greenhouse gas emissions 1750-2022| [William Lamb](https://www.mcc-berlin.net/en/about/team/lamb-william.html) | https://github.com/ClimateIndicator/GHG-Emissions-Assessment |
-
-<!-- | Remaining carbon budgets in 0.1°C increments | [Robin Lamboll](https://www.imperial.ac.uk/people/r.lamboll) | https://github.com/Rlamboll/CarbonBudget | -->
+| Remaining carbon budgets in 0.1°C increments | [Robin Lamboll](https://www.imperial.ac.uk/people/r.lamboll) | https://github.com/Rlamboll/CarbonBudget |
 
 Each data file has associated metadata in YML format with details on the contact author
 and original repository of the source code (note no code is retained on this data
