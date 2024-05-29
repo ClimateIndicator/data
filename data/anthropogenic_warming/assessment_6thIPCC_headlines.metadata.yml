@@ -9,6 +9,6 @@ hash_md5_value: e7ecb42a4124b44d39c9575ba2f029ec
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh
-    author_email: tristramwalsh@gmail.com
+    author_email: tristram.walsh@ouce.ox.ac.uk
 data_description: Attribution of historical warming by component. Suffix _p05, _p50, _p95 represents 5th, 50th and 95th percentiles of the uncertainty distribution. 2017 values for anthropogenic warming represent the IPCC Special Report on 1.5°C assessment; 2010-2019 values for all components represent IPCC Sixth Assessment Report Working Group 1 assessment. 
 data_license: CC-BY-4.0
