@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: greenhouse_gas_emissions_co2eq.csv
 file_type: csv
-file_size: 18395
+file_size: 18396
 created_date: 2023-04-21
 last_modified_date: 2024-05-29
 expires_date: 202-03-31
-hash_md5_value: 1e68e7bb0ca7e2e6ca8c65404a32eec8
+hash_md5_value: 23d68bf4efc8776e3f80113bcd705273
 code_repository_url: https://github.com/ClimateIndicator/GHG-Emissions-Assessment
 authors:
   - author_name: William Lamb
