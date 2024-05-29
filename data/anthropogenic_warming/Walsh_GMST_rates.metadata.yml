@@ -10,6 +10,6 @@ hash_md5_value: c72bf0a4a1ff4eca6170dbaaf06ab13a
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh
-    author_email: tristramwalsh@gmail.com
+    author_email: tristram.walsh@ouce.ox.ac.uk
 data_description: Attribution of historical warming by component. Suffix _p05, _p17, _p50, _p83, _p95 represents 5th, 17th, 50th, 83rd and 95th percentiles of the uncertainty distribution.
 data_license: CC-BY-4.0
