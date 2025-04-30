@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
-file_name: ERF_best_aggregates_1750-2023.csv
+file_name: ERF_best_aggregates_1750-2024.csv
 file_type: csv
-file_size: 95619
-created_date: 2024-04-24
-last_modified_date: 2024-05-26
-expires_date: 2025-03-31
-hash_md5_value: e93c5ffeff2231b6c12eb3f56353ab25
+file_size: 63104
+created_date: 2025-04-30
+last_modified_date: 2025-04-30
+expires_date: 2026-04-30
+hash_md5_value: F2F6BF62643302B169496CDAA2E5ACA5
 code_repository_url: https://github.com/ClimateIndicator/forcing-timeseries
 authors:
   - author_name: Chris Smith
