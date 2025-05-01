@@ -1,11 +1,53 @@
-cff-version: 1.1.0
-type: dataset
+cff-version: 1.2.0
+message: ""
 authors:
-- family-names: Smith
-  given-names: Chris
-orcid: https://orcid.org/0000-0003-0599-4633
-date-released: 2025-04-30
+  - family-names: Smith
+    given-names: Chris
+    orcid: https://orcid.org/0000-0003-0599-4633
+  - family-names: "Walsh"
+    given-names: "Tristram"
+    orcid: "https://orcid.org/0000-0002-5227-9432"
+  - family-names: "Gillett"
+    given-names: "Nathan"
+    orcid: "https://orcid.org/0000-0002-2957-0002"
+  - family-names: "Hauser"
+    given-names: "Mattias"
+    orcid: "https://orcid.org/0000-0002-0057-4878"
+  - family-names: "Krummel"
+    given-names: "Paul"
+  - family-names: "Lamb"
+    given-names: "William"
+    orcid: "https://orcid.org/0000-0003-3273-7878"
+  - family-names: "Lamboll"
+    given-names: "Robin"
+    orcid: "https://orcid.org/0000-0002-8410-037X"
+  - family-names: "Mühle"
+    given-names: "Jens"
+    orcid: "https://orcid.org/0000-0001-9776-3642"
+  - family-names: "Palmer"
+    given-names: "Matthew"
+    orcid: "https://orcid.org/0000-0001-7422-198X"
+  - family-names: "Ribes"
+    given-names: "Aurélien"
+    orcid: "https://orcid.org/0000-0001-5102-7885"
+  - family-names: "Schumacher"
+    given-names: "Dominik"
+    orcid: "https://orcid.org/0000-0003-2699-2880"
+  - family-names: "Seneviratne"
+    given-names: "Sonia"
+    orcid: "https://orcid.org/0000-0001-9528-2917"
+  - family-names: "Trewin"
+    given-names: "Blair"
+    orcid: "https://orcid.org/0000-0001-8186-7885"
+  - family-names: "von Schuckmann"
+    given-names: "Karina"
+    orcid: "https://orcid.org/0000-0002-9922-8528"
+  - family-names: "Forster"
+    given-names: "Piers"
+    orcid: "https://orcid.org/0000-0002-6078-0171"
 title: "Indicators of Global Climate Change 2024"
-version: 2025.04.30b
-doi: 10.5281/zenodo.7883757
-url: "https://github.com/ClimateIndicator/data"
+version: 2025.05.01
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7883757
+date-released: 2025-05-01
