@@ -1,0 +1,21 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: txx_decadal_means.csv
+file_type: csv
+file_size: 343
+created_date: 2024-04-24
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: 131ECDEF200907EBA04201CDBA0C5BC3
+code_repository_url: https://github.com/ClimateIndicator/cip_extremes
+authors:
+  - author_name: Mathias Hauser
+    author_email: mathias.hauser@env.ethz.ch
+  - author_name: Dominik Schumacher
+    author_email: dominik.schumacher@env.ethz.ch
+  - author_name: Sonia Seneviratne
+    author_email: sonia.seneviratne@ethz.ch
+data_description:
+  - units: K
+  - anomalies with respect 1850-1900
+  - NOTE: using this data requires attributing the climate indicator project and the data providers. See https://github.com/ClimateIndicator/cip_extremes#data
+data_license: CC-BY-4.0

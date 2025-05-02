@@ -1,0 +1,14 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: annual_averages.csv
+file_type: csv
+file_size: 6653
+created_date: 2023-04-20
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: D6807D296EE2A0850041D70C4570563D
+code_repository_url:
+authors:
+  - author_name: Blair Trewin
+    author_email: blair.trewin@bom.gov.au
+data_description: Annual mean global mean surface temperatures. Units are anomaly in K since 1850-1900.
+data_license: CC-BY-4.0
