@@ -1,12 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: Ribes_GMST_rates.csv
 file_type: csv
-file_size: 722
+file_size: 718
 created_date: 2024-04-24
-last_modified_date: 2024-04-24
-expires_date: 2025-03-31
-# note this is just the AR6 and SR15 numbers so does not expire.
-hash_md5_value: 6d4a61e798878043da5dce0ab75ed7f2
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: DA2151F29711E021A5D5377B6EDE8709
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Aurélien Ribes

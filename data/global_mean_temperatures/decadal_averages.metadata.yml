@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: decadal_averages.csv
 file_type: csv
-file_size: 5530
+file_size: 5766
 created_date: 2023-04-20
-last_modified_date: 2024-04-24
-expires_date: 2025-03-31
-hash_md5_value: 8a3f4f9450298b525c3bb71339972d65
+last_modified_date: 2025-05-02
+expires_date: 2025-04-30
+hash_md5_value: CC9728B00654C5897782D57F03F62B61
 code_repository_url:
 authors:
   - author_name: Blair Trewin

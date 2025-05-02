@@ -1,22 +1,22 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: ghg_concentrations.csv
 file_type: csv
-file_size: 57833
+file_size: 57466
 created_date: 2023-04-20
-last_modified_date: 2024-04-24
-expires_date: 2025-03-31
-hash_md5_value: 10a4d4d1a27d07bc16007c368dfa6741
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: FAEB9654970BC2781F90A87219493C19
 code_repository_url: https://github.com/ClimateIndicator/forcing-timeseries
 authors:
   - author_name: Chris Smith
     author_email: c.j.smith1@leeds.ac.uk
-  - author_name: Bradley Hall
-    author_email: bradley.hall@noaa.gov
-  - author_name: Xin Lan
-    author_email: Xin.Lan@noaa.gov
   - author_name: Jens Muhle
     author_email: jmuhle@ucsd.edu
   - author_name: Paul Krummel
-    author_email: c.j.smith1@leeds.ac.uk
+    author_email: paul.krummel@csiro.au
+  - author name: Luke Western
+    author email: luke.western@bristol.ac.uk
+  - author name: Matt Rigby
+    author email: matt.rigby@bristol.ac.uk
 data_description: Greenhouse gas concentrations for 52 species. Values are global annual mean volume mixing ratios. CO2 is in parts per million volume (ppm). CH4 and N2O are in parts per billion volume (ppb = 10 to the power of -9). All other gases are in parts per trillion volume (ppt = 10 to the power of -12).
 data_license: CC-BY-4.0

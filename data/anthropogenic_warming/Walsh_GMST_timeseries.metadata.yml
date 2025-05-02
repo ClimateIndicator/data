@@ -1,12 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: Walsh_GMST_timeseries_6048000.csv
 file_type: csv
-file_size: 66885
+file_size: 67769
 created_date: 2023-05-01
-last_modified_date: 2024-04-24
-expires_date: 2025-03-31
-# note this is just the AR6 and SR15 numbers so does not expire.
-hash_md5_value: 964b24bd6f4a0eaef5c4894e88eb705e
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: 235ED38989BD0677E0AE461FD33EA160
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh

@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: txx_timeseries.csv
 file_type: csv
-file_size: 2388
+file_size: 2484
 created_date: 2023-04-20
 last_modified_date: 2024-04-24
 expires_date: 2025-03-31
-hash_md5_value: 7f53151da4cfc043acab5735d343a543
+hash_md5_value: 5689AF0FF8614B158B89F34544358619
 code_repository_url: https://github.com/ClimateIndicator/cip_extremes
 authors:
   - author_name: Mathias Hauser
