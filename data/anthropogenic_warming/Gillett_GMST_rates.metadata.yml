@@ -1,0 +1,19 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: Gillett_GMST_rates.csv
+file_type: csv
+file_size: 160
+created_date: 2024-04-24
+last_modified_date: 2025-05-02
+expires_date: 2025-04-30
+hash_md5_value: 2160523DF03F1105D3B5DE5DF868C08E
+
+code_repository_url:
+  - https://github.com/ClimateIndicator/anthropogenic-warming-assessment # f.e. https://github.io/example-repo
+  - https://github.com/ESMValGroup/ESMValTool/tree/forster23
+
+# Authors responsible for the file, use for notifications
+authors:
+  - author_name: Nathan Gillett
+    author_email: Nathan.Gillett@ec.gc.ca
+data_description: Attribution of historical warming by component. Suffix _p05, _p50, _p95 represents 5th, 50th and 95th percentiles of the uncertainty distribution. Globally-complete GMST, HadCRUT5, well-mixed GHGs vs Oant, based on obs to Feb 2023, 5-yr means, CanESM5, IPSL-CM6A-LR, MIROC6.
+data_license: CC-BY-4.0

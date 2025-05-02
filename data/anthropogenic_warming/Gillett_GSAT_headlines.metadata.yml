@@ -1,0 +1,14 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: Gillett_GSAT_headlines.csv
+file_type: csv
+file_size: 745
+created_date: 2023-05-01
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: 8AF7F926AB452FE8ED4B88A6A0A2D116
+code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
+authors:
+  - author_name: Nathan Gillett
+    author_email: Nathan.Gillett@ec.gc.ca
+data_description: Attribution of historical warming by component. Suffix _p05, _p50, _p95 represents 5th, 50th and 95th percentiles of the uncertainty distribution. GSAT, HadCRUT5, well-mixed GHGs vs Oant, based on obs to Feb 2023, 5-yr means, CanESM5, IPSL-CM6A-LR, MIROC6
+data_license: CC-BY-4.0

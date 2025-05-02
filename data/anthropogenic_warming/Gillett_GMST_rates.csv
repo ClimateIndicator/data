@@ -1,0 +1,3 @@
+time,timebound_lower,timebound_upper,anthropogenic_p05,anthropogenic_p50,anthropogenic_p95
+2015,2010,2020,0.017,0.027,0.038
+2020,2015,2025,0.025,0.042,0.059

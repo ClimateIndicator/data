@@ -1,0 +1,14 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: Gillett_GMST_timeseries.csv
+file_type: csv
+file_size: 46444
+created_date: 2023-05-01
+last_modified_date: 2025-05-02
+expires_date: 2026-04-30
+hash_md5_value: BEFF8DBEA0D06CAC4CD207E48AFDE29F
+code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
+authors:
+  - author_name: Nathan Gillett
+    author_email: Nathan.Gillett@ec.gc.ca
+data_description: Attribution of historical warming by component. 5th, 17th, 50th, 83rd, 95th percentile in each case. CMIP6 DAMIP models HadCRUT5-masked blended mean GMST
+data_license: CC-BY-4.0
