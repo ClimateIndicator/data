@@ -17,6 +17,7 @@ The below table details the author(s) of each dataset contained within the repos
 | Greenhouse gas concentrations 1750-2024 | [Chris Smith](https://cjsmith.be),<br> [Jens Muhle](https://jmuhle.scrippsprofiles.ucsd.edu/),<br> [Paul Krummel](https://people.csiro.au/k/p/paul-krummel) | https://github.com/ClimateIndicator/forcing-timeseries |
 | Greenhouse gas emissions 1750-2023| [William Lamb](https://www.mcc-berlin.net/en/about/team/lamb-william.html) | https://github.com/ClimateIndicator/GHG-Emissions-Assessment |
 | Remaining carbon budgets in 0.1°C increments | [Robin Lamboll](https://www.imperial.ac.uk/people/r.lamboll) | https://github.com/Rlamboll/CarbonBudget |
+| Seal leve rise | [Aimée Slangen](https://www.nioz.nl/en/about/organisation/staff/aimee-slangen),<br>[Matthew Palmer](https://www.metoffice.gov.uk/research/people/matt-palmer) |  |
 
 Each data file has associated metadata in YML format with details on the contact author
 and original repository of the source code (note no code is retained on this data

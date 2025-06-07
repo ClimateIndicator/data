@@ -1,0 +1,16 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: AR6_GMSL_TG_ensemble_FGD.csv
+file_type: csv
+file_size: 8321
+created_date: 2025-06-07
+last_modified_date: 2025-06-07
+expires_date: 9999-12-31
+hash_md5_value: b42bc9adfc9c7b36877a239550607aa2
+code_repository_url: 
+authors:
+  - author_name: Matt Palmer
+    author_email: m.d.palmer@bristol.ac.uk
+  - author_name: Aimée Slangen
+    author_email: Aimee.Slangen@nioz.nl
+data_description: Change in global mean sea level (GMSL) in millimeters compared to 1995-2014 mean from tidal gauge estimates. Uncertainties are one standard deviation.
+data_license: CC-BY-4.0

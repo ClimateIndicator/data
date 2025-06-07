@@ -1,0 +1,16 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: altimetry_ens.csv
+file_type: csv
+file_size: 1394
+created_date: 2025-06-07
+last_modified_date: 2025-06-07
+expires_date: 2026-04-30
+hash_md5_value: 921bafd52945854428a91957ae7e3e62
+code_repository_url: 
+authors:
+  - author_name: Matt Palmer
+    author_email: m.d.palmer@bristol.ac.uk
+  - author_name: Aimée Slangen
+    author_email: Aimee.Slangen@nioz.nl
+data_description: Altimetry ensemble of sea level rise (mean and standard deviation), relative to 1995-2014 mean.
+data_license: CC-BY-4.0
