@@ -1,0 +1,16 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: altimetry_indiv_estimates.csv
+file_type: csv
+file_size: 1807
+created_date: 2025-06-07
+last_modified_date: 2025-06-07
+expires_date: 2026-04-30
+hash_md5_value: 6a2c0146a020cafd8056826d566740de
+code_repository_url: https://github.com/AimeeSlangen/IGCC24_SL
+authors:
+  - author_name: Matt Palmer
+    author_email: m.d.palmer@bristol.ac.uk
+  - author_name: Aimée Slangen
+    author_email: Aimee.Slangen@nioz.nl
+data_description: Altimetry individual estimates of sea level rise (mean and standard deviation), relative to 1995-2014 mean.
+data_license: CC-BY-4.0
