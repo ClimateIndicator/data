@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: Walsh_GMST_headlines.csv
 file_type: csv
-file_size: 2780
+file_size: 2789
 created_date: 2023-05-01
-last_modified_date: 2025-05-02
+last_modified_date: 2025-06-11
 expires_date: 2026-04-30
-hash_md5_value: D4163612516FBB8107C1AB7D0435D960
+hash_md5_value: ec3e60c3d77e4e2fa68f062ef3b9d2cc
 code_repository_url: https://github.com/ClimateIndicator/anthropogenic-warming-assessment
 authors:
   - author_name: Tristram Walsh
