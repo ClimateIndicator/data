@@ -1,11 +1,11 @@
 # SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
 file_name: ghg_concentrations.csv
 file_type: csv
-file_size: 57466
+file_size: 57451
 created_date: 2023-04-20
-last_modified_date: 2025-05-02
+last_modified_date: 2025-06-10
 expires_date: 2026-04-30
-hash_md5_value: FAEB9654970BC2781F90A87219493C19
+hash_md5_value: 742b7e02c807dafc69dda58ab9961228
 code_repository_url: https://github.com/ClimateIndicator/forcing-timeseries
 authors:
   - author_name: Chris Smith

@@ -1,0 +1,14 @@
+# SFM https://github.com/ClimateIndicator/Simple-File-Metadata-Format
+file_name: greenhouse_gas_emissions_co2eq.csv
+file_type: csv
+file_size: 16673
+created_date: 2023-04-21
+last_modified_date: 2025-06-10
+expires_date: 2026-04-30
+hash_md5_value: ea334183f16a3862edbb76eb7214f623
+code_repository_url: https://github.com/ClimateIndicator/GHG-Emissions-Assessment
+authors:
+  - author_name: William Lamb
+    author_email: william.lamb@pik-potsdam.de
+data_description: Greenhouse gas emissions expressed as GWP100 (AR6).
+data_license: CC-BY-4.0
