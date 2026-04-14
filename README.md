@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7883757.svg)](https://doi.org/10.5281/zenodo.7883757)
 
 This repository contains standardised data for figures and results used in the
-Indicators of Global Climate Change 2024 paper, submitted to Earth System Science Data.
+Indicators of Global Climate Change 2025 paper, submitted to Earth System Science Data.
 
 The below table details the author(s) of each dataset contained within the repository, and their homepages.
 
