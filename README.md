@@ -20,5 +20,5 @@ The below table details the author(s) of each dataset contained within the repos
 | Greenhouse gas emissions 1959-2024| [William Lamb](https://www.mcc-berlin.net/en/about/team/lamb-william.html) | https://github.com/ClimateIndicator/GHG-Emissions-Assessment |
 | Marine heatwave days 1940-2025 | [Catherine Gregory](https://www.climate.unibe.ch/about_us/team/dr_gregory_catherine/index_eng.html),<br>[Thomas Frölicher](https://www.tfroelicher.com/) | |
 | Remaining carbon budgets in 0.1°C increments | [Robin Lamboll](https://www.imperial.ac.uk/people/r.lamboll) | https://github.com/Rlamboll/CarbonBudget |
-| Sea level rise 1750-2024 | [Aimée Slangen](https://www.nioz.nl/en/about/organisation/staff/aimee-slangen),<br>[Matthew Palmer](https://www.metoffice.gov.uk/research/people/matt-palmer) | https://github.com/AimeeSlangen/IGCC24_SL |
+| Sea level rise 1901-2025 | [Aimée Slangen](https://www.nioz.nl/en/about/organisation/staff/aimee-slangen),<br>[Matthew Palmer](https://www.metoffice.gov.uk/research/people/matt-palmer) | https://github.com/AimeeSlangen/IGCC24_SL |
 
