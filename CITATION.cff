@@ -49,8 +49,8 @@ authors:
     given-names: "Piers"
     orcid: "https://orcid.org/0000-0002-6078-0171"
 title: "Indicators of Global Climate Change 2025"
-version: 2026.04.14
+version: 2026.06.15
 identifiers:
   - type: doi
     value: 10.5281/zenodo.7883757
-date-released: 2026-04-14
+date-released: 2026-06-15
