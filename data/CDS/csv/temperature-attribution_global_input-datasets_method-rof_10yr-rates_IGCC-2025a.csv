@@ -1,0 +1,7 @@
+percentile,component,time,GMST
+p05,anthropogenic,2015,0.016442612
+p05,anthropogenic,2021,0.025183996
+p50,anthropogenic,2015,0.026636931
+p50,anthropogenic,2021,0.039441928
+p95,anthropogenic,2015,0.036836921
+p95,anthropogenic,2021,0.053708749
